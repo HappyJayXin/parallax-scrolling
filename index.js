@@ -7,3 +7,13 @@ function parallex() {
     text.style.top = ypos * 0.110 + 50 + '%'     
 }
 window.addEventListener('scroll',parallex)
+
+// jquery
+//let ypos;
+//let $image = $('#image')
+
+//const parallex = () => {
+//   ypos = window.pageYOffset;       
+//   $image.css('top',ypos * 0.5 + "px")    
+//}  
+//$(window).on('scroll',parallex)
