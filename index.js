@@ -1,4 +1,4 @@
-let ypos, image, text
+let ypos, image, text;
 function parallex() {
     ypos = window.pageYOffset
     image = document.getElementById('image')
